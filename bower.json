@@ -1,0 +1,30 @@
+{
+  "name": "angularfire-seed",
+  "description": "A starter project for Angular + Firebase with AngularFire",
+  "version": "1.0.0",
+  "homepage": "https://github.com/firebase/angularfire-seed",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "angular": "latest",
+    "angular-route": "latest",
+    "angular-loader": "latest",
+    "angular-mocks": "latest",
+    "angular-ui-router": "latest",
+    "html5-boilerplate": "latest",
+    "firebase": "latest",
+    "angularfire": "latest",
+    "mockfirebase": "latest",
+    "fastclick": "latest",
+    "waypoints": "latest",
+    "mustache.js": "latest",
+    "jquery.transit": "latest",
+    "jquery-slimscroll": "latest",
+    "moment": "latest",
+    "pace": "latest",
+    "bootstrap-hover-dropdown": "latest",
+    "oclazyload": "latest",
+    "jquery-unveil": "latest",
+    "jquery.gritter": "latest"
+  }
+}
