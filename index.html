@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head lang="en">
+  <meta charset="UTF-8">
+  <title></title>
+  <script src="bower_components/angular/angular.min.js"></script>
+  <script src="bower_components/angular-route/angular-route.min.js"></script>
+  <script src="bower_components/oclazyload/dist/ocLazyLoad.min.js"></script>
+  <script src="app.js"></script>
+</head>
+<body ng-app="app">
+<div ng-controller="AppCtrl as a">
+  <p>{{xyz}}</p>
+  <button ng-click="a.click()">Click me!</button>
+</div>
+<div ng-controller="AppEchoCtrl as a">
+  <p>{{xyz}}</p>
+  <button ng-click="a.echo()">Click me!</button>
+</div>
+</body>
+</html>

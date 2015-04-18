@@ -221,4 +221,4 @@ test_out/e2e.xml
 
 .idea/
 node_modules/
-public_html/assets/libs/bower_components/
+bower_components/
